@@ -6,3 +6,4 @@ First commit to dev branch
 Second commit to dev branch
 
 Additional commit: First to dev branch
+Additional commit: Second to dev branch
