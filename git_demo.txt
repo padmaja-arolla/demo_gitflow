@@ -3,3 +3,4 @@ Second commit to master
 Third commit to master
 
 First commit to dev branch
+Second commit to dev branch
